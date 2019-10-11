@@ -1,0 +1,12 @@
+<configuration>
+  <property>
+  <name>Hadoop.tmp.dir</name>
+  <value>/usr/local/Cellar/hadoop/hdfs/tmp</value>
+  <description>blah.</description>
+  </property>
+  <property>
+  <name>fs.default.name</name>
+  <value>hdfs://localhost:9000</value>
+  </property>
+</configuration>
+
