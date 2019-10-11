@@ -1,0 +1,2 @@
+# hadoop
+configs for hadoop
